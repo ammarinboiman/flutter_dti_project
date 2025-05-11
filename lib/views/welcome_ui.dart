@@ -1,6 +1,8 @@
 // ignore_for_file: sort_child_properties_last
 
 import 'package:flutter/material.dart';
+import 'package:flutter_dti_project/views/login_ui.dart';
+import 'package:flutter_dti_project/views/sigup_ui.dart';
 
 class WelcomeUi extends StatelessWidget {
   const WelcomeUi({super.key});
@@ -43,7 +45,15 @@ class WelcomeUi extends StatelessWidget {
                 mainAxisAlignment: MainAxisAlignment.center,
                 children: [
                   OutlinedButton(
-                    onPressed: (){},
+                    onPressed: (){
+                      // โค้ดเปิดหน้าจอเเบบย้อนกลับได้
+                      Navigator.push(
+                        context,
+                        MaterialPageRoute(
+                          builder: (context) => LoginUi(),
+                        ),
+                      );
+                    },
                     child: Text(
                       'LOGIN',
                     ),
@@ -61,7 +71,14 @@ class WelcomeUi extends StatelessWidget {
                      width: 5,
                   ),
                   ElevatedButton(
-                    onPressed: (){},
+                    onPressed: (){
+                       Navigator.push(
+                        context,
+                        MaterialPageRoute(
+                          builder: (context) => SigupUi(),
+                        ),
+                      );
+                    },
                     child: Text(
                       'SIGN UP',
                       style: TextStyle(
