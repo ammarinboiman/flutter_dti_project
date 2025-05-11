@@ -4,6 +4,9 @@ UI Screen Only for Welcome, Login and Sigup
 
 ## ภาพ US Screen
 
-<image src="https://github.com/user-attachments/assets/9b0e8237-7fde-4d62-bc88-01387a5abc74" width "100">
-<image src="[https://github.com/user-attachments/assets/9b0e8237-7fde-4d62-bc88-01387a5abc74](https://github.com/user-attachments/assets/efd875d7-c48a-452e-8c36-dae02a6c1c92)" width "100">
-<image src="[https://github.com/user-attachments/assets/9b0e8237-7fde-4d62-bc88-01387a5abc74](https://github.com/user-attachments/assets/06dc87a2-da07-4b03-9587-ef1eebf73d36)" width "100">
+
+<img src="https://github.com/user-attachments/assets/6acfa4b6-e9d9-4225-92f6-dd51e067b55c">
+
+<img src="https://github.com/user-attachments/assets/9862d89b-1de9-4645-a0f5-a33587c0aae8">
+
+<img src="https://github.com/user-attachments/assets/d8a0ab51-79ed-4a4c-abb3-802bc5770ca7">
